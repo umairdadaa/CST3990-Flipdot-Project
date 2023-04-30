@@ -18,40 +18,41 @@ This repository contains a Python script for controlling a 7x28 Alfazeta flipdot
 ## Installation
 
 Clone the repository:
-\```
-git clone https://github.com/username/Flipdot-Display-Controller.git
-\```
+```
+git clone https://github.com/umairdadaa/CST3990-Flipdot-Project.git
+```
 
 Install the required Python packages:
-\```
+```
 pip install -r requirements.txt
-\```
+```
 
 ## Usage
 
 Run the Python text sender with Tkinter script:
-\```
+```
 python textguiworks.py
-\```
+```
 
 Run the Python img/gif with Tkinter wscript:
-\```
+```
 Use any that works
 
 python imgtkinter.py
 python imgtkinter2.py
 python imgtkinter3.py
-\```
+```
 
 Run the Python text sender Terminal script:
-\```
+```
 python text.py
-\```
+```
 
 Run the Python img/gif Terminal script:
-\```
+```
 python img1worksss.py
-\```
+```
+
 ## License
 
-This project is licensed under the terms of the [MIT License](LICENSE).
+This project is licensed under the terms of the [MIT License](LICENSE) and [Middlesex University Dubai](https://api.mdx.ac.ae/uploads/DBI_Academic_Integrity_and_Misconduct_Policy_and_Procedures_2022_v2_241ed3f44d.pdf?updated_at=2022-11-03T07:25:07.881Z)
